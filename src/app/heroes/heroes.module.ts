@@ -10,6 +10,7 @@ import { ListHeroeComponent } from './pages/list-heroe/list-heroe.component';
 import { SearchHeroeComponent } from './pages/search-heroe/search-heroe.component';
 import { HeroeComponent } from './pages/heroe/heroe.component';
 import { HeroeHomeComponent } from './pages/heroe-home/heroe-home.component';
+import { HeroeCardComponent } from './components/heroe-card/heroe-card.component';
 
 
 
@@ -20,6 +21,7 @@ import { HeroeHomeComponent } from './pages/heroe-home/heroe-home.component';
     SearchHeroeComponent,
     HeroeComponent,
     HeroeHomeComponent,
+    HeroeCardComponent,
 
   ],
   imports: [
